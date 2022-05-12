@@ -13,7 +13,9 @@ https://www.gmu.edu (CDS303)
 # FAQIAM
 
 - How much memory did I need to use more of the original variables that I eventually did
+  - Was there a way to save the pca/fits out to file that didn't have to include quite so much of the original data? 
 - Is GLM the right regression for this?
 - Why was the orignal data so inconsistent about the details of the same intersection
 - Is the month really the most impactful variable?
 - Why didn't they mention the make/model of the car involved?
+- Why can't I `v <- as.factor( v, c('a','b','c','m') )` huh?
