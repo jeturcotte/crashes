@@ -2,7 +2,7 @@
 A made-to-learn predictive pca-regression model done up in R
 
 ## run it
-https://jturcott.shinyapps.io/AccidentPrediction/?_ga=2.17246716.432899035.1652222669-465208690.1652222669
+https://jturcott.shinyapps.io/AccidentPrediction/
 
 ## original data
 https://www.kaggle.com/datasets/benoit72/uk-accidents-10-years-history-with-many-variables
